@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Vibur');
+
+html {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #F8F1E9;
+  color: #444444;
+}
+
+.container {
+  margin: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+@media screen and (min-width: 900px) {
+  #header {
+    margin-top: 15vh;
+  }
+}
+
+h1 {
+  font-family: 'Vibur', cursive;
+  font-size: 5em;
+}
+
+a {
+  color: #1693A5;
+  text-decoration: none;
+}
+
+p {
+  font-size: 2em;
+}
+
+strong {
+  color: #1693A5;
+}
+
+#contact {
+  font-size: 3em;
+}
+
+#contact-left {
+
+}
+
+#contact-right {
+
+}
